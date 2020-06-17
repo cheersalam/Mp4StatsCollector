@@ -1,0 +1,6 @@
+#ifndef MP4PARSER_LIBRARY_H
+#define MP4PARSER_LIBRARY_H
+
+void hello();
+
+#endif //MP4PARSER_LIBRARY_H
